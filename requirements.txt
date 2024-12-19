@@ -6,4 +6,8 @@ tensorflow
 keras
 matplotlib
 seaborn
-
+telethon
+pymongo
+dotenv
+nest_asyncio
+telegram
